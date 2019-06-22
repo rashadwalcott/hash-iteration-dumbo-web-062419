@@ -13,7 +13,7 @@ def happy_birthday(birthday_kids)
 end
 
 def age_appropriate_birthday(birthday_kids)
-  
+  message = ''
   
 end
 

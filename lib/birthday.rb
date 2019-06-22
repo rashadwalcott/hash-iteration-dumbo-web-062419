@@ -14,6 +14,7 @@ end
 
 def age_appropriate_birthday(birthday_kids)
   message = ''
-  
+  birthday.each do |name, age|
+    if age <= 12
 end
 
